@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maxim_website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/maxim_website/static/js/main.4180ee81.chunk.js",
+    "main.js.map": "/maxim_website/static/js/main.4180ee81.chunk.js.map",
+    "runtime-main.js": "/maxim_website/static/js/runtime-main.e9459310.js",
+    "runtime-main.js.map": "/maxim_website/static/js/runtime-main.e9459310.js.map",
+    "static/js/2.d4abbad7.chunk.js": "/maxim_website/static/js/2.d4abbad7.chunk.js",
+    "static/js/2.d4abbad7.chunk.js.map": "/maxim_website/static/js/2.d4abbad7.chunk.js.map",
+    "static/js/3.db43e865.chunk.js": "/maxim_website/static/js/3.db43e865.chunk.js",
+    "static/js/3.db43e865.chunk.js.map": "/maxim_website/static/js/3.db43e865.chunk.js.map",
+    "index.html": "/maxim_website/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/maxim_website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d4abbad7.chunk.js.LICENSE.txt": "/maxim_website/static/js/2.d4abbad7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9459310.js",
+    "static/js/2.d4abbad7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4180ee81.chunk.js"
+  ]
+}
